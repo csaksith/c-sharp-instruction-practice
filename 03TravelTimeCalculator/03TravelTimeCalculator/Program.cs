@@ -18,7 +18,7 @@ namespace _03TravelTimeCalculator {
                 MyConsole.PrintLine("---------------------");
                 MyConsole.PrintLine($"Hours: {hours}");
                 MyConsole.PrintLine($"Minutes: {minutes}");
-                choice = MyConsole.PromptReqString("Continue? (y/n): ","y","n");
+                choice = MyConsole.PromptReqString("\nContinue? (y/n): ","y","n");
             }
         }
     }
