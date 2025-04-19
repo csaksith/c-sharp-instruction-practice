@@ -36,10 +36,6 @@ namespace _05DiceRoller
             // if total = 2 -> snake eyes
             // if total = 12 -> box cars
             // roll again?
-
-
-
-
             MyConsole.PrintLine("Goodbye!");
         }
     }
